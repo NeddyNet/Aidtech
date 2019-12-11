@@ -5,13 +5,7 @@ Is a team that consist of 3 Computer Engineering students and 2 Electrical Engin
 
 
 Copyright
-AidTech Team has agreed that this proposal is freely available for the inspection.  Moreover, the team has agreed the permission for the extensive copying
-of this project proposal content for the scholarly purpose may be granted by
-supervisor who supervised the project work recorded herein. Copying or
-publication or other use of this report for financial gain without approval of
-AidTech team written permission is prohibited.  Request for this permission
-to copy or to make any other use of material in this proposal in whole or in
-part should be addressed to:  Muhanad.al.hayek@bilgiedu.net
+AidTech Team has agreed that this project is freely available for the inspec- tion. Moreover, the team has agreed the permission for the extensive copying of this project content for the scholarly purpose may be granted by supervisor who supervised the project work recorded herein. Copying or publication or other use of this report for financial gain without approval of AidTech team written permission is prohibited. Request for this permission to copy or to make any other use of material in this proposal in whole or in part should be addressed to: Muhanad.al.hayek@bilgiedu.net
 
 
 AidTech Team
